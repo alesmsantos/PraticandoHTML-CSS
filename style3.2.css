@@ -1,0 +1,26 @@
+h1 {
+    font-size: 20px;
+    color: gray;
+    font-weight:400;
+}
+
+h2 {
+font-size: 20px;
+color: gray;
+font-weight: 400;
+}
+
+button {
+background: white;
+color: orange;
+padding: 20px 50px;
+border: orange;
+border-style: solid;
+margin-right: 12px;
+}
+
+button:hover {
+    background-color: orange;
+    color: white;
+    border-style: solid;
+}

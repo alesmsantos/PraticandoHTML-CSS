@@ -1,0 +1,21 @@
+h1 {
+    font-size: 50px;
+
+}
+
+
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkgray;
+}
+
+button {
+background-image: linear-gradient(-10deg, #ff8e02,#fae94c);
+background-image: linear-gradient(right, #fae94c, #ff8e02);
+color:floralwhite;
+padding: 20px 50px;
+border-radius: 80px;
+border: none;
+
+}
